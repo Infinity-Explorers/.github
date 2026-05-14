@@ -67,29 +67,116 @@ The Infinity-Explorers team brings together expertise across multiple engineerin
 
 ---
 
-## 💻 Live Interactive Demonstrations
+## � Live Interactive Demonstrations
 
-### ⚡ Energy Systems & Electrochemistry
-*   **Alkaline Electrolysis Reactor:** Interactive hydrogen production analysis dashboard, real-time electrolysis efficiency calculations, thermodynamic cycle visualization, and material compatibility analysis.
+### 🔬 **Energy Systems & Electrochemistry**
 
-### ❄️ Thermal Management & Cooling Systems
-*   **Thermoelectric Cooling Explorer:** Advanced Peltier module analysis platform, Seebeck effect simulation, and thermal resistance network modeling.
-*   **Advanced TEC Thermal Control:** Precision thermal management system, PID control parameter tuning, and multi-stage cooling optimization.
-*   **Peltier Module Dual Heatsink System:** Dual-heatsink architecture exploration and heat flux distribution analysis.
-*   **Automated Fluid Dispensing System:** Mechatronic fluid control platform with precision dispensing algorithms.
+#### [Alkaline Electrolysis Reactor](https://alkalineelectrolysisreactor.vercel.app/)
+**Interactive hydrogen production analysis dashboard**
+- Real-time electrolysis efficiency calculations
+- Thermodynamic cycle visualization
+- Material compatibility analysis
+- Safety protocols integration
 
-### ⚙️ Mechanical & Thermodynamic Systems
-*   **Stirling Engine Thermodynamic Analysis:** Comprehensive simulator covering Alpha/Beta/Gamma configurations, Schmidt kinematic analysis, and P-V cycle visualization.
-*   **Thermoelectric Generators (TEG) Analysis:** Solid-state energy conversion platform, Figure of merit (ZT) analysis, and Maximum Power Point Tracking (MPPT) simulation.
+### 🌡️ **Thermal Management & Cooling Systems**
 
-### 🚀 Aerospace & Navigation Systems
-*   **Rocket GPS-INS Fusion:** Hardware-in-the-Loop telemetry processing, asynchronous sensor polling, discrete Kalman filtering, and real-time trajectory visualization.
+#### [Thermoelectric Cooling Explorer](https://advancedthermoelectriccoolingthepel.vercel.app/)
+**Advanced Peltier module analysis platform**
+- Seebeck effect simulation
+- Thermal resistance network modeling
+- Power optimization algorithms
+- Real-time temperature gradient visualization
 
-### 🔌 Electronic & Sensor Systems
-*   **Door Security Alarm:** Automated security, intrusion detection simulation, and sensor integration analysis.
-*   **Magnetic Polarity Detector:** Interactive magnetic field analysis tool, field strength visualization, and real-time polarity detection.
+#### [Advanced TEC Thermal Control](https://advanced-tec-thermal-control.vercel.app/)
+**Precision thermal management system**
+- Multi-stage cooling optimization
+- PID control parameter tuning
+- Heat sink performance analysis
+- Energy efficiency monitoring
+
+#### [Peltier Module Dual Heatsink System](https://peltiermoduledualheatsinksystem.vercel.app/)
+**Dual-heatsink architecture exploration**
+- Comparative thermal performance
+- Heat flux distribution analysis
+- System efficiency optimization
+- Component sizing calculator
+
+#### [Automated Fluid Dispensing System](https://automatedfluiddispensingsystem.vercel.app/)
+**Mechatronic fluid control platform**
+- Precision dispensing algorithms
+- Pump performance monitoring
+- Flow rate optimization
+- System integration diagnostics
+
+### ⚙️ **Mechanical & Thermodynamic Systems**
+
+#### [Stirling Engine Thermodynamic Analysis](https://stirlingenginethermodynamic.vercel.app/)
+**Comprehensive Stirling engine simulator**
+- Alpha/Beta/Gamma configuration comparison
+- Schmidt kinematic analysis
+- P-V cycle visualization
+- Working fluid performance optimization
+
+#### [Thermoelectric Generators (TEG) Analysis](https://thermoelectricgeneratorsteg.vercel.app/)
+**Solid-state energy conversion platform**
+- Figure of merit (ZT) analysis
+- Material property comparison
+- Power point tracking simulation
+- Failure mode analysis
+
+### 🚀 **Aerospace & Navigation Systems**
+
+#### [Rocket GPS-INS Fusion](https://rocketgpsinsfusion-opal.vercel.app/)
+**Hardware-in-the-Loop telemetry processing**
+- Asynchronous sensor polling
+- Kinematic calculations
+- Discrete Kalman filtering
+- Real-time trajectory visualization
+
+### ⚡ **Electronic & Sensor Systems**
+
+#### [Door Security Alarm](https://doorsecurityalarm.vercel.app/)
+**Automated security and access control system**
+- Intrusion detection simulation
+- Sensor integration analysis
+- Alarm trigger optimization
+- Security protocol testing
+
+#### [Magnetic Polarity Detector](https://magnetic-polarity-detector.vercel.app/)
+**Interactive magnetic field analysis tool**
+- Magnetic pole identification
+- Field strength visualization
+- Sensor calibration and tuning
+- Real-time polarity detection
+
+### 🎯 **What These Platforms Offer**
+
+Each interactive dashboard provides:
+
+- **Real-time Simulations**: Dynamic modeling of complex engineering systems
+- **Educational Content**: Comprehensive explanations of underlying physics and engineering principles
+- **Interactive Controls**: Hands-on parameter adjustment to understand system behavior
+- **Data Visualization**: Charts, graphs, and diagrams that make complex data intuitive
+- **Professional Analysis**: Industry-standard calculations and optimization methods
+- **Responsive Design**: Accessible on desktop, tablet, and mobile devices
+
+### 🔍 **How to Use These Tools**
+
+1. **Explore**: Navigate through different tabs and sections to understand system architecture
+2. **Interact**: Adjust parameters using sliders and controls to see real-time effects
+3. **Learn**: Read the educational content to understand the underlying principles
+4. **Apply**: Use the insights for your own engineering projects and research
+
+### 💡 **Educational Value**
+
+These platforms serve as:
+- **Learning Resources** for students and educators
+- **Design Tools** for engineers and researchers
+- **Demonstration Platforms** for industry professionals
+- **Innovation Catalysts** for sustainable energy development
 
 ---
+
 
 ## 🎯 What These Platforms Offer
 Each interactive dashboard provides **Real-time Simulations**, **Educational Content**, **Interactive Controls**, and **Professional Analysis** using industry-standard calculations and optimization methods, all wrapped in a **Responsive Design**.
